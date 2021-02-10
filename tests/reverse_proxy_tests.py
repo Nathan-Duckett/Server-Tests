@@ -11,7 +11,6 @@ application_names = [
     "ombi",
     "tautulli",
     "qbittorrent",
-    "jenkins",
     "gitea"
 ]
 
